@@ -24,11 +24,14 @@ jobs:
       - name: Install Dependencies
         run: npm install
 
+      - name: Install Cypress Binary
+        run: npx cypress install  # Ensure Cypress binary is installed
+
       - name: List files for debugging
         run: ls -R
 
       - name: Run Cypress Tests
-        run: npx cypress run  # Runs all tests
+        run: npx cypress run
 
       - name: Upload Cypress Screenshots (if tests fail)
         if: failure() && success()
