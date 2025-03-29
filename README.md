@@ -44,7 +44,7 @@ Welcome to the Cypress Automation Framework for the registration page. This repo
 
     Clone the repository:
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone :https://github.com/Sambitswain15/Cypress_HRM 
 
 Navigate to the project folder:
 
