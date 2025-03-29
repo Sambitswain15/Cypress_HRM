@@ -44,38 +44,12 @@ Welcome to the Cypress Automation Framework for the registration page. This repo
 
     Clone the repository:
 
-git clone :https://github.com/Sambitswain15/Cypress_HRM 
+git clone https://github.com/Sambitswain15/Cypress_HRM.git
 
 Navigate to the project folder:
 
-cd your-repo-name
+cd Cypress_HRM
 
 Install dependencies:
 
-    npm install
-
-▶️ Running Tests Locally
-
-    Run all tests in headless mode:
-
-npx cypress run
-
-Open the Cypress Test Runner (interactive mode):
-
-    npx cypress open
-
-🔄 CI/CD with GitHub Actions
-
-    Automated test execution on pull requests and code pushes using GitHub Actions.
-
-    Check the Actions tab in the GitHub repository to view workflow runs.
-
-📊 Test Reports
-
-    Test results are displayed in the console after execution.
-
-    For detailed reporting, integrate with the Cypress Dashboard or use custom reporters.
-
-🤝 Contributions
-
-Contributions are welcome! Fork the repo, create a pull request, and I’ll review it.
+npm install
