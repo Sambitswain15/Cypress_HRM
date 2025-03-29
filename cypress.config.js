@@ -3,12 +3,12 @@ const { defineConfig } = require("cypress");
 module.exports = defineConfig({
   e2e: {
     setupNodeEvents(on, config) {
-      // implement node event listeners here
+      // Implement node event listeners here
     },
- 
-
-    env: {URL: "https://naveenautomationlabs.com/opencart/index.php?route=account/register"
+    baseUrl: "https://naveenautomationlabs.com/opencart/index.php?route=account/register",
+    env: {
+      URL: "https://naveenautomationlabs.com/opencart/index.php?route=account/register"
     },
-  
+    video: true, // Enable video recording
   },
-  });
+});
