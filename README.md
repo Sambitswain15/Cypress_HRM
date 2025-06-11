@@ -1,4 +1,4 @@
-📋 Cypress Automation Framework for Registration Page
+📋 Cypress Automation Framework for Registration Page.
 
 Welcome to the Cypress Automation Framework for the registration page. This repository demonstrates end-to-end (E2E) testing using Cypress with the Page Object Model (POM) design pattern for modular, scalable, and maintainable automation.
 🚀 Features
