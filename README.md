@@ -1,20 +1,21 @@
-📋 Cypress Automation Framework for Registration Page
+Cypress Automation Framework for Registration Page
 
-Welcome to the Cypress Automation Framework for the registration page. This repository demonstrates end-to-end (E2E) testing using Cypress with the Page Object Model (POM) design pattern for modular, scalable, and maintainable automation.
+Welcome to the Cypress Automation Framework designed for the Registration Page. This repository demonstrates end-to-end (E2E) testing using Cypress along with the Page Object Model (POM) design pattern. The framework ensures that the automation is modular, scalable, and maintainable.
 🚀 Features
 
-    ✅ End-to-End Automation for the Registration Page
+    End-to-End Automation for the Registration Page
 
-    ✅ Page Object Model (POM) for clean, reusable code
+    Page Object Model (POM): Clean, reusable code for better organization and maintainability
 
-    ✅ GitHub Actions for CI/CD and automated test execution
+    GitHub Actions for Continuous Integration/Continuous Deployment (CI/CD) and automated test execution
 
-    ✅ Dynamic data handling with Fixtures
+    Dynamic Data Handling using Fixtures for flexibility
 
-    ✅ Custom commands for enhanced Cypress functionality
-
+    Custom Commands to extend Cypress functionality
 
 ⚙️ Prerequisites
+
+To get started, ensure you have the following installed:
 
     Node.js (v14 or higher)
 
@@ -26,10 +27,10 @@ Welcome to the Cypress Automation Framework for the registration page. This repo
 
 git clone https://github.com/Sambitswain15/Cypress_HRM.git
 
-Navigate to the project folder:
+    Navigate to the project folder:
 
 cd Cypress_HRM
 
-Install dependencies:
+    Install the dependencies:
 
 npm install
