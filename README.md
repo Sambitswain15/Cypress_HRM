@@ -1,7 +1,7 @@
 Cypress Automation Framework for Registration Page.
 
 Welcome to the Cypress Automation Framework built specifically for automating the Registration Page. This repository showcases how to perform end-to-end (E2E) testing using Cypress with the Page Object Model (POM) design pattern. The framework is built to be modular, scalable, and easy to maintain.
-🚀 Key Features
+🚀 Key Features:
 
     Complete End-to-End Automation for testing the Registration Page
 
@@ -13,7 +13,7 @@ Welcome to the Cypress Automation Framework built specifically for automating th
 
     Custom Commands: Extend Cypress functionality with custom commands for enhanced test automation
 
-⚙️ Prerequisites
+⚙️ Prerequisites:
 
 Before you begin, make sure you have the following tools installed:
 
@@ -21,7 +21,7 @@ Before you begin, make sure you have the following tools installed:
 
     npm (Node Package Manager)
 
-🔨 Installation Guide
+🔨 Installation Guide:
 
 Follow these steps to set up the Cypress automation framework:
 
@@ -49,7 +49,7 @@ After installation, you can start running tests locally using:
 
     npm run test
 
-📝 How it Works
+📝 How it Works:
 
     Page Object Model (POM):
 
@@ -63,7 +63,7 @@ After installation, you can start running tests locally using:
 
         Custom Cypress commands are used to simplify repetitive actions or extend Cypress functionality. You can easily define and reuse custom commands to improve readability and reduce code duplication.
 
-🛠️ Running in CI/CD
+🛠️ Running in CI/CD:
 
     This framework is integrated with GitHub Actions for CI/CD.
 
